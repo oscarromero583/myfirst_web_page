@@ -1,0 +1,51 @@
+#body1 {
+    background: skyblue;
+}
+
+.h1 {
+    padding: 5%;
+    border: pink;
+    border-radius: 3%;
+    color: green;
+    border: double;
+    
+
+}
+
+.h2 {
+    padding: 40px;
+ background-color: darkolivegreen;
+ border: double;
+ border-radius: 25%;
+ text-align: center;
+ font-size: 50px;
+ font-family: fantasy;
+}
+
+#aside {
+    font-family: fantasy;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.btn1:hover {
+    background-color: brown;
+    padding: 2%;
+    font-size: large;
+    font-weight: 5px;
+    border-radius: 20%;
+}
+
+.btn-submit:hover {
+    background-color: green;
+    padding: 2%;
+    font-size: medium;
+    font-weight: 10px;
+    border-radius: 20%;
+
+}
+
+#heading3 {
+    text-align: center;
+    color: purple;
+}
